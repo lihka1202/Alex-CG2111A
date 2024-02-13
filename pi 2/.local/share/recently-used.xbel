@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/pi/w8s2pi/w9s2/packet.h" added="2022-03-16T02:41:16Z" modified="2022-03-16T02:41:16Z" visited="2022-03-16T02:41:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-03-16T02:41:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/w8s2pi/w9s2/alex-pi.cpp" added="2022-03-16T02:41:41Z" modified="2022-03-16T02:41:41Z" visited="2022-03-16T02:41:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-03-16T02:41:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/alex.csr" added="2022-03-21T02:06:32Z" modified="2022-03-21T02:09:03Z" visited="2022-03-21T02:06:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser-v7" exec="&apos;chromium-browser-v7 %u&apos;" modified="2022-03-21T02:09:03Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/test_tls_server.cpp" added="2022-03-21T03:35:32Z" modified="2022-03-21T03:35:32Z" visited="2022-03-21T03:35:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-03-21T03:35:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/tls_pthread.cpp" added="2022-03-21T03:46:41Z" modified="2022-03-21T03:46:41Z" visited="2022-03-21T03:46:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-03-21T03:46:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/tls-alex-server.cpp" added="2022-03-21T03:46:47Z" modified="2022-03-21T03:46:47Z" visited="2022-03-21T03:46:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-03-21T03:46:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/tls_server_lib.cpp" added="2022-03-21T03:47:00Z" modified="2022-03-21T03:47:00Z" visited="2022-03-21T03:47:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-03-21T03:47:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/.bashrc" added="2022-03-30T02:30:19Z" modified="2022-03-30T02:30:19Z" visited="2022-03-30T02:30:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-03-30T02:30:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/w8s2pi/Alex/Alex_Bare_Metal" added="2022-04-04T03:33:28Z" modified="2022-04-04T03:33:28Z" visited="2022-04-04T03:33:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2022-04-04T03:33:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/w8s2pi/Alex_BM" added="2022-04-04T03:33:56Z" modified="2022-04-04T03:33:56Z" visited="2022-04-04T03:33:56.785711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2022-04-04T03:33:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

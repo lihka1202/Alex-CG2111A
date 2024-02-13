@@ -1,0 +1,13 @@
+VNC(R) Viewer 6.19.923 (r41938) ARMv6 (Sep 19 2019 16:16:37)
+Copyright (C) 2002-2019 RealVNC Ltd.
+RealVNC and VNC are trademarks of RealVNC Ltd and are protected by trademark
+registrations and/or pending trademark applications in the European Union,
+United States of America and other jurisdictions.
+Protected by UK patent 2481870; US patent 8760366; EU patent 2652951.
+See https://www.realvnc.com for information on VNC.
+For third party acknowledgements see:
+https://www.realvnc.com/docs/6/foss.html
+OS: Raspbian GNU/Linux 9, Linux 4.19.66, armv7l
+<11> 2022-04-20T05:52:55.589Z raspberrypi vncviewer[1145]: VendorConfig: Error in Certificate "CN=GlobalSign,O=GlobalSign,OU=GlobalSign Root CA - R2": X.509 Error: Certificate expired
+<11> 2022-04-20T06:01:19.944Z raspberrypi vncviewer[1145]: Child: 1603: VendorConfig: Error in Certificate "CN=GlobalSign,O=GlobalSign,OU=GlobalSign Root CA - R2": X.509 Error: Certificate expired
+<11> 2022-04-20T06:01:19.959Z raspberrypi vncviewer[1145]: Child: 1603: CSession: connection error: connect: Connection refused (111)
